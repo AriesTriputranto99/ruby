@@ -34,6 +34,12 @@ https://www.ruby-lang.org/en/downloads/
 You can download release packages and the snapshot of the repository. If you want to
 download whole versions of Ruby, please visit https://www.ruby-lang.org/en/downloads/releases/.
 
+### Ruby stone 
+
+![images](https://github.com/user-attachments/assets/a1162f66-b297-41e3-854a-dd16ac3fca34)
+
+[Ruby repository](https://github.com/googleapis/google-cloud-ruby)
+
 ### Download with Git
 
 The mirror of the Ruby source tree can be checked out with the following command:
